@@ -32,11 +32,12 @@ body {
   }
   
   ul {
-    list-style-type: none;
+    list-style-type:none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: whitesmoke;
+    border-radius: 20px;
   }
   
   li {
@@ -44,13 +45,25 @@ body {
   }
   
   li a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: block;
-    color: white;
+    color: lightblue;
+    transition: all 0.5s;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   
   li a:hover {
-    background-color: #111;
+    color: navy;
+    background-color: red;
+  }
+
+  #textcube {
+    background-color: hsla(0, 0%, 100%, 0.603);
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    border-style:groove;
+    border: 6px whitesmoke groove;
   }
