@@ -23,27 +23,34 @@ body {
     margin: 5px;
   }
 
-  .button span {
-    cursor: pointer;
-    display: inline-block;
-    position: relative;
-    transition: 0.5s;
+  button:hover {
+    background-color: white;
+  }
+
+  button:active{
+    background-color: red;
   }
   
-  .button span:after {
-    content: '\00bb';
-    position: absolute;
-    opacity: 0;
-    top: 0;
-    right: -20px;
-    transition: 0.5s;
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
   }
   
-  .button:hover span {
-    padding-right: 25px;
+  li {
+    float: left;
   }
   
-  .button:hover span:after {
-    opacity: 1;
-    right: 0;
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
   }
