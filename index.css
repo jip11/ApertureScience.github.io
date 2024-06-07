@@ -29,6 +29,7 @@ body {
 
   button:active{
     background-color: red;
+    transition: all 0.5s;
   }
   
   ul {
@@ -56,7 +57,12 @@ body {
   
   li a:hover {
     color: navy;
+    background-color:  rgb(103, 183, 209);
+  }
+  li:active {
+    color: whitesmoke;
     background-color: red;
+    transition: all 0.5s;
   }
 
   #textcube {
