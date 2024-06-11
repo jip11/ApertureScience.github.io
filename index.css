@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(124, 216, 247);
+    background-color: rgb(77, 155, 181);
   }
   
   h1, h2, h3, h4, h5, h6, p {
@@ -12,7 +12,7 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: inline-block;
     border-radius: 4px;
-    background-color: rgb(103, 183, 209);
+    background-color: rgb(77, 155, 181);
     border: none;
     text-align: center;
     font-size: 28px;
@@ -40,6 +40,12 @@ body {
     background-color: whitesmoke;
     border-radius: 20px;
   }
+  #navlogo{
+    width: 45px;
+  }
+  #bottomlogo{
+    width: 200px;
+  }
   
   li {
     float: left;
@@ -48,7 +54,7 @@ body {
   li a {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: block;
-    color: lightblue;
+    color: rgb(77, 155, 181);
     transition: all 0.5s;
     text-align: center;
     padding: 14px 16px;
@@ -57,7 +63,7 @@ body {
   
   li a:hover {
     color: navy;
-    background-color:  rgb(103, 183, 209);
+    background-color:  rgb(89, 179, 209);
   }
   li:active {
     color: whitesmoke;
