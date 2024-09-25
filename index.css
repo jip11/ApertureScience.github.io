@@ -7,7 +7,7 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
-  button {
+  #apbutt {
     color: navy;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     display: inline-block;
@@ -39,6 +39,20 @@ body {
     overflow: hidden;
     background-color: whitesmoke;
     border-radius: 20px;
+    text-align: center;
+  }
+  li{
+    float: left;
+    margin: auto;
+    size: 40px;
+  }
+  li a {
+    display: block;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+    text-align: center;
   }
   #navlogo{
     width: 40px;
@@ -52,6 +66,7 @@ body {
   
   li {
     float: left;
+    padding: 5px;
   }
   
   li a {
@@ -73,6 +88,31 @@ body {
     background-color: red;
     transition: all 0.5s;
   }
+  #navbutt{
+    background-color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    border: none;
+    text-align: center;
+    font-size: 15px;
+    padding: auto;
+    width: 60px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    color: rgb(89, 179, 209);;
+  }
+  #navbutt:hover{
+    color: navy;
+    background-color:  rgb(89, 179, 209);
+    padding: 2px;
+  }
+  #navbutt:active {
+    color: whitesmoke;
+    background-color: red;
+    transition: all 0.5s;
+    padding: 4px;
+  }
 
   #textcube {
     background-color: hsla(0, 0%, 100%, 0.603);
@@ -81,4 +121,10 @@ body {
     margin: auto;
     border-style:groove;
     border: 6px whitesmoke groove;
+  }
+
+  #error {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 8px;
   }
