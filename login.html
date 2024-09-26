@@ -7,24 +7,31 @@
 </head>
 <link rel="stylesheet" href="index.css">
 <body>
-    <script src="./index.js"></script>
     <ul>
-        <li><img src="./Aperture_Science_logo_blue.png" alt="Aperture_Science_logo_blue" id="navlogo"></li>
+        <li onclick="index.html"><img src="./Aperture_Science_logo_blue.png" alt="Aperture_Science_logo_blue" id="navlogo"></li>
       </ul>
       
       <br>
 
     <div id="textcube">
 
-        <h3>Username:</h3>
-        <input type="text" id="username">
-        <h3>Password:</h3>
-        <input type="text" id="password">
         <br>
-        <button class="button" style="vertical-align:middle" onclick="audio.play();" id="apbutt">Login</button>
+        <br>
+        <form id="loginForm">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required><br><br>
+            
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required><br><br>
+            
+            <button type="submit">Login</button>
+        </form>
+        
+        <p id="errorMessage" style="color:red;"></p>
         <br>
         <br>
         <img src="Aperture_Science_logo_gray.png" alt="Aperture_Science_logo_gray" id="bottomlogo">
      </div>
+     <script src="./index.js"></script>
 </body>
 </html>
