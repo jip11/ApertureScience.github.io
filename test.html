@@ -7,7 +7,6 @@
 </head>
 <link rel="stylesheet" href="index.css">
 <body>
-    <script src="./index.js"></script>
     <ul>
         <li><img src="./Aperture_Science_logo_blue.png" alt="Aperture_Science_logo_blue" id="navlogo"></li>
       </ul>
@@ -19,6 +18,7 @@
         <h1>Test subject application </h1>
         <br>
         <br>
+        <div id="form-div">
         <form>
             <label for="fname">First name:</label><br>
             <input type="text" id="fname" name="fname"><br>
@@ -26,30 +26,28 @@
             <input type="text" id="lname" name="lname"><br>
             <label for="age">Age:</label><br>
             <input type="number" id="age" name="age">
-          </form>
           <br>
           <br>
-          <form>
             <h3>Would anybody will miss you or look for you when you are gone?</h3>
             <input type="radio" id="yes" name="look" value="Yes">
             <label for="yes">Yes</label><br>
             <input type="radio" id="no" name="look" value="No">
             <label for="no">No</label><br>
-          </form>
           <br>
           <br>
-          <form>
-            <h3>Do you accept to donate youre body for science?</h3>
+            <h3>Do you accept to donate your body for science?</h3>
             <input type="radio" id="yes" name="die" value="Yes">
             <label for="yes">Yes</label><br>
             <input type="radio" id="no" name="die" value="No">
             <label for="no">No</label><br>
           </form>
+        </div>
           <br>
           <br>
-        <button id="apbutt" class="button" style="vertical-align:middle" onclick="audio.play();">submit</button>
+        <button id="apbutt" class="button" style="vertical-align:middle" onclick="buffer()">submit</button>
         <br>
         <img src="Aperture_Science_logo_gray.png" alt="Aperture_Science_logo_gray" id="bottomlogo">
      </div>
+     <script src="./index.js"></script>
 </body>
 </html>
