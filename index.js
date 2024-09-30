@@ -29,8 +29,24 @@ function buffer() {
     audio.play();
     let fName = document.getElementById('fname') 
     if(fName.value === ""){
-        alert("FAAAAAAASZ")
+        alert("please dont leave the inputs blank!")
     }
+    let lName = document.getElementById('lname') 
+    if(lName.value === ""){
+        alert("please dont leave the inputs blank!")
+    }
+    let Age = document.getElementById('age') 
+    if(Age.value === ""){
+        alert("please dont leave the inputs blank!")
+    }
+  /*  let Yes = document.getElementById('yes')
+    if(Yes.value ===""){
+        alert("please chose an option!")
+    }
+    let No = document.getElementById('no')
+    if(No.value ===""){
+        alert("please chose an option!")
+    }*/
     else{
     document.getElementById('form-div').innerHTML = '<img src="./loading-load.gif"/>';
     setTimeout(()=>{
