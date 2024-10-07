@@ -1,5 +1,3 @@
-
-
 // users
 document.addEventListener('DOMContentLoaded', function() {
     var users = {
