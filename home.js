@@ -44,9 +44,80 @@
         So today, on this special anniversary, I ask all of you to take a moment to appreciate the man who dared to dream the impossible and demanded that we achieve it. Raise a glass (preferably filled with something non-toxic) to Cave Johnson—the founder, the visionary, and the man who made science what it is today.
         Here’s to another year of blowing the roof off of science!</h4>
         <h6>- David Charles</h6>
-        <p>PS: If anyone has been handling the Combustible Lemons prototype, please report to the safety department immediately. Cave would be proud, but we still need to file the paperwork.</p>`
+        <p>PS: If anyone has been handling the Combustible Lemons prototype, please report to the safety department immediately. Cave would be proud, but we still need to file the paperwork.</p>`,
 
+        `<h3>Subject 327: A Most Interesting Test Subject</h3>
+        <img src="" alt="" id="newsimg">
+        <h4> Dear Aperture Team, As many of you are aware, we have been conducting a series of tests involving an unusual subject designated as Subject 327—commonly referred to as the protagonist. This individual has shown a remarkable resilience to the tests and challenges that we have placed before them. Today, I would like to take a moment to share some observations about this extraordinary test subject.
+                    Subject 327, a female (most recently identified as Chell), entered the facility under somewhat unconventional circumstances. Originally, she was part of a different experiment, but due to unforeseen logistical complications (the kind that often arise when testing cutting-edge technology), she found herself at the center of our portal experimentation.Observations:
+                    
+                    Adaptability: From the very first test chamber, it was evident that Subject 327 possesses an innate ability to adapt to complex environments and challenges. No matter the obstacles we place before her—turrets, energy fields, or seemingly insurmountable barriers—she approaches each challenge with a unique combination of creativity and determination. It’s almost as if she has an intuitive understanding of our systems.
+                    
+                    Resourcefulness: In various testing scenarios, Chell has demonstrated an impressive ability to utilize available resources creatively. For instance, she has used her portal gun not just for navigation but also for tactical advantages against obstacles and threats. It’s a fascinating example of how human ingenuity can turn the tide in seemingly hopeless situations.
+                    
+                    Endurance: Perhaps one of the most remarkable aspects of Subject 327 is her sheer determination. Throughout her time in our facility, she has endured an extensive array of psychological and physical challenges—most of which would deter even the most seasoned test subjects. Her ability to push through even the most harrowing circumstances is commendable and worthy of further study.
+                    
+                    Curiosity: Chell exhibits a natural curiosity about her surroundings, often taking the time to explore areas of the facility beyond the immediate confines of the test chambers. This behavior indicates a willingness to understand her environment, making her an unpredictable yet engaging subject for our experiments.
+                    
+                    Unconventional Problem-Solving: What sets Subject 327 apart from other test subjects is her knack for unconventional problem-solving. Rather than following the expected path through our testing chambers, she frequently devises her own methods, often resulting in unexpected outcomes. This has provided invaluable data on the limitations and strengths of our testing protocols.
+                    
+                    Recommendations for Future Tests:
+                    
+                    Given the remarkable attributes displayed by Subject 327, I propose that we adjust our testing protocols to account for her unique abilities. Rather than relying solely on traditional methods, we should consider introducing scenarios that encourage her to explore her limits further. By challenging her in novel ways, we may gain critical insights into human adaptability and resilience.
+                    
+                    However, I must also remind everyone to exercise caution. Subject 327 has been known to disrupt our systems when cornered or threatened. While we all appreciate her ingenuity, we must remain vigilant to ensure that her actions do not compromise our operations or safety protocols.
+                    
+                    In conclusion, Subject 327 has proven to be a most fascinating and valuable asset to our research at Aperture Science. As we continue to learn from her, let us embrace the potential that lies within our testing programs.</h4>
+
+                <h6>- Dr. L. C. T. Porter, October 15</h6>
+
+                <p>PS: Please remember that Chell is not to be referred to as "the cake is a lie" subject. Let’s keep the humor professional, team.</p>`,
+
+                `<h3>The Pinnacle of Testing: Our Largest Test Chamber to Date</h3>
+                <img src="Testchmb14.webp" alt="The end is near" id="newsimg">
+
+                <h4> Dear Aperture Science Team,
+
+                    I am thrilled to announce that we are about to embark on an ambitious project that will redefine our testing capabilities: the construction of our largest test chamber to date! This monumental undertaking is not only a testament to our innovative spirit but also an opportunity to push the boundaries of what we can achieve in the field of experimental science.
+                    
+                    Project Overview
+                    The new test chamber, designated Test Chamber 5000, will span an astonishing 10,000 square feet and feature an array of complex, interconnected environments designed to challenge even the most resilient test subjects (looking at you, Subject 327!). Our goal is to create a dynamic space that integrates cutting-edge technology, advanced testing methodologies, and the principles of creativity that define Aperture Science.
+                    
+                    Key Features of Test Chamber 5000
+                    Multi-Environment Design: The chamber will consist of various zones, each tailored to test different aspects of cognitive and physical endurance. From gravity-defying platforms to intricate puzzles that require precise portal placement, we aim to create an immersive experience that will keep our subjects on their toes.
+                    
+                    Interactive Elements: Each zone will feature state-of-the-art interactive elements, such as moving platforms, rotating walls, and automated turrets. These components will not only enhance the challenge but also provide valuable data on how test subjects adapt to shifting environments and threats.
+                    
+                    Real-Time Data Collection: To maximize our learning potential, the chamber will be equipped with advanced sensors and data-gathering technology. This will allow us to track the performance and decision-making processes of our test subjects in real-time, providing invaluable insights into human behavior under pressure.
+                    
+                    Safety Protocols: Safety remains our top priority. The design will include multiple failsafes, such as emergency exits, automated shutdown procedures, and thorough safety inspections. We will ensure that even the most complex tests do not compromise the well-being of our subjects.
+                    
+                    Unique Challenges: We plan to introduce unique challenges that have never been seen before in our testing environments. Expect surprises at every turn, from physics-defying jumps to challenges that require teamwork and strategy, making Test Chamber 5000 a truly one-of-a-kind experience.
+                    
+                    Project Timeline
+                    The construction is set to commence in the next few weeks, with a target completion date of March 1, 200X. I urge all departments to collaborate effectively during this process, as the success of Test Chamber 5000 will depend on our ability to integrate diverse expertise and insights.
+                    
+                    Call for Ideas
+                    As we move forward with this project, I encourage each of you to share your ideas and suggestions. Whether you have a brilliant concept for a new test or an innovative piece of equipment, your input is invaluable. Let’s harness the collective creativity of Aperture Science to make this the most exciting and groundbreaking testing chamber in history!
+                    
+                    In conclusion, Test Chamber 5000 represents a pivotal moment in our journey as leaders in experimental science. Together, we can build an environment that not only challenges our test subjects but also inspires innovation and creativity across the board.
+                    
+                    Let’s get to work!</h4>
+
+                <h6>- Greg Shepherd, Nov 1</h6>
+
+                <p>PS: Remember to bring your hard hats and safety goggles to the groundbreaking ceremony! And keep your eyes peeled for any curious test subjects who might wander in.</p>`,
+
+                `<div id="news">
+                <h3>RUN</h3>
+
+                <h4> GLaDOS has killed everybody! She went crazy again! IF ANYONE IS  OUT THERE. PLEASE TRY TO TERMINATE HER CODE!</h4>
+
+                <h6>- Greg Shepherd</h6>
+
+                <p>PS: I think someone else is still alive, GLaDOS is talking with someone...</p>`,
 
 ];
-    let randomNumber = Math.floor(Math.random() * 10) + 1;
-    //document.getElementById('news').innerHTML = newsArray[randomNumber];
+    let randomNumber = Math.floor(Math.random() * 5) + 1;
+document.getElementById('news').innerHTML = newsArray[randomNumber];
+console.log(randomNumber)
