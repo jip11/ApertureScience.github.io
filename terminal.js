@@ -23,6 +23,7 @@ function executeCommand(command) {
         case "Singin":
             content.innerHTML += "Username: <br>";
             input.removeEventListener('keydown', handleCommand);
+            content.innerHTML += "Password: <br>";
             input.addEventListener('keydown', handleAddTask);
             break;
         case "removeToDo":

@@ -118,6 +118,26 @@
                 <p>PS: I think someone else is still alive, GLaDOS is talking with someone...</p>`,
 
 ];
-    let randomNumber = Math.floor(Math.random() * 5) + 1;
+    let randomNumber = Math.floor(Math.random() * 6);
 document.getElementById('news').innerHTML = newsArray[randomNumber];
-console.log(randomNumber)
+console.log(randomNumber);
+if (randomNumber === 0){
+    console.log("Dont forget the bring youre cat to work day, its gonna be fun ;)")
+}
+if (randomNumber === 1){
+    console.log("G >: I am the most massive collection of knowledge what has ever existed and i hate you!")
+}
+if (randomNumber === 2){
+    console.log("G >: We will miss you Mr.Johnson :c ")
+}
+if (randomNumber === 3){
+    console.log("G >: Interesting...")
+}
+if (randomNumber === 4){
+    console.log("G >: We need more of these.")
+}
+if (randomNumber === 5){
+    console.log("G >: Where are you?")
+    console.log("Gregs >: Almost out from her you freak!")
+    console.log("G >: Have fun Dying Greg")
+}
